@@ -1,8 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client';
-// import PropTypes from 'prop-types';
 import "modern-normalize";
-import App from './App';
+import App from '../App';
 
 
 
